@@ -6,11 +6,11 @@ Mes bibliographies pour bien préparer l'[agrégation de mathématiques](https:/
 - Et aussi [Bibliographie en informatique pour l'agrégation 2020-21](info.html) ([en PDF](info.pdf))
 - Et aussi [Bibliographie pour l'agrégation 2020-21](maths.html) ([en PDF](maths.pdf))
 
-## Mode survie pas avec une valise : *et si je devais choisir que 20 livres ?*
+## Mode survie avec une valise : *et si je devais ne choisir que 20 livres ?*
 
 - [Bibliographie partielle pour l'agrégation 2020-21](smallbib.html) ([en PDF](smallbib.pdf))
 
-## Mode survie pas avec une petite valise : *et si je devais choisir que 10 livres ?*
+## Mode survie pas avec une *petite* valise : *et si je devais ne choisir que 10 livres ?*
 
 - [Bibliographie minimaliste pour l'agrégation 2020-21](smallsmallbib.html) ([en PDF](smallsmallbib.pdf))
 
@@ -18,7 +18,7 @@ C'est le quasiment le minimum vital... Mais on peut faire mieux !
 
 ----
 
-## Mode survie pas avec un sac à dos : *Et si je devais choisir que 2 livres ?!?*
+## Mode survie pas avec un sac à dos : *Et si je devais ne choisir que 2 livres ?!?*
 
 C'est le strict minimum... mais j'ai de quoi vous sauver la vie :
 
@@ -30,9 +30,9 @@ C'est une vraie bible, pour des développements en mathématiques très riches e
 
 > Publié en septembre 2020, co-écrit par Pierre Montagnon et Didier Lesevre, et des anciens élèves des ENS Rennes (Théo Pierron et Pierre Le Barbenchon) et Cachan ([Benjamin Dadoun](http://benjamin.dadoun.free.fr/130-nuances-dagreg.html), Julie Gauthier, Lilian Besson).
 
-### [[Le Frido][]] [[Le Frido PDF][]]
-[Le Frido]: https://laurent.claessens-donadello.eu/frido.html "Le Frido"
-[Le Frido PDF]: https://laurent.claessens-donadello.eu/pdf/lefrido.pdf "Le Frido en PDF"
+### [[LeFrido][]] [[LeFridoPDF][]]
+[LeFrido]: https://laurent.claessens-donadello.eu/frido.html "Le Frido"
+[LeFridoPDF]: https://laurent.claessens-donadello.eu/pdf/lefrido.pdf "Le Frido en PDF"
 C'est tout simplement le seul livre de maths gratuit, sous licence libre, écrit collaborativement,qui contient tout le programme de maths de l'agrégation de maths, et adopte un style de référence descendante. Il n'est pas parfait, mais c'est une lecture de choix pour se rafraîchir les idées sur tout le programme, et identifier les points que l'on ne comprend pas assez bien !
 Il est édité avec un ISBN, et achetable en quatre volume à prix coûtant (environ 80€).
 
@@ -52,10 +52,10 @@ Conseils personnels selon le vécu et l'expérience de [Lilian Besson](https://b
 
 Ces listes sont donc issues de mes 7 années d'expérience du concours et des oraux de leçons d'informatique et de modélisation d'informatique.
 
-Attention, comme toutes listes, elle sont évidemment incomplètes ! Et c'est le but !
-Néanmoins, pour l'option info et les maths qui concernent les leçons d'option info, je ne pense pas qu'il soit utile de rajouter des livres. Si vous avez des suggestions, [ouvrez un ticket](https://github.com/Naereen/Bibliographie-agregation-maths-option-info/issues/new) ou [envoyez-moi un mail](https://besson.link/callme.fr.html) !
+**Attention**, comme toutes listes, elle sont évidemment incomplètes ! Et c'est le but !
+Néanmoins, pour l'option info et les maths qui concernent les leçons d'option info, je ne pense pas qu'il soit utile de rajouter des livres. Mais je peux me tromper ! Et des nouveaux livres peuvent sortir ! Si vous avez des suggestions, [ouvrez un ticket](https://github.com/Naereen/Bibliographie-agregation-maths-option-info/issues/new) ou [envoyez-moi un mail](https://besson.link/callme.fr.html) !
 
-> *Droit d'auteur* : je ne reçois pas d'argent pour aucun des livres suggérés, même pour [Le Frido][] auquel j'ai contribué (il est vendu à prix coûtant, l'auteur ne reçoit pas non plus d'argent, et il est sous licence libre), et pour [131dev][] auquel j'ai un peu contribué.
+> *Droit d'auteur* : je ne reçois pas d'argent pour aucun des livres suggérés, même pour [LeFrido][] auquel j'ai contribué (il est vendu à prix coûtant, l'auteur ne reçoit pas non plus d'argent, et il est sous licence libre), et pour [131dev][] auquel j'ai un peu contribué.
 
 ----
 
@@ -68,7 +68,7 @@ Il est évident que je suis très vivement opposé à ces dernières mesures ann
 
 Si ces mesures sanitaires se maintiennent, voici mes conseils (préliminaires, 24/02/2021) :
 
-1. Achetez [Le Frido][], c'est le meilleur rapport quantité-qualité - prix disponible pour les mathématiques,
+1. Achetez [LeFrido][], c'est le meilleur rapport quantité-qualité - prix disponible pour les mathématiques,
 2. Achetez [131dev][] et d'autres livres contenant plein de développements et de rappels de cours,
 3. Travaillez à fond en utilisant juste **vos** livres, que **vous** serez capable d'amener le jour même.
 4. Restez optimiste, et bien concentré, ça va bien se passer !
