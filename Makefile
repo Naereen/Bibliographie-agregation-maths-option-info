@@ -14,8 +14,8 @@ build:	all_pdfs all_autonom
 
 FICHES_HTML=$(wildcard *.html)
 PDFS=$(FICHES_HTML:.html=.pdf)
-AUTONOM_HTML=$(FICHES_HTML:.html=.autonom.html)
-AUTONOM_HTML=$(pages-web-autonomes/AUTONOM_HTML)
+AUTONOM_HTML=$(FICHES_HTML:.html=__new.html)
+# AUTONOM_HTML=$(pages-web-autonomes/AUTONOM_HTML)
 
 listes: liste_fiches liste_pdfs liste_autonom
 liste_fiches:
@@ -34,11 +34,15 @@ liste_autonom:
 all_pdfs:	$(PDFS)
 all_autonom:	$(AUTONOM_HTML)
 
-autonomize_html:	all_autonom
-	mv -vf *autonom.html pages-web-autonomes/
+# autonomize_html:	all_autonom
+# 	mv -vf *autonom.html pages-web-autonomes/
 
 %.pdf:	%.html
 	strapdown2pdf "$<"
 
-%.autonom.html:	%.ipynb
-	strapdown2pdf "$<"
+%__new.html:	%.html
+	strapdown2html "$<"
+	mv "$@" pages-web-autonomes/
+	# TODO rename *__new.html ?
+
+.PHONY: all send build all_pdfs all_autonom autonomize_html pdf html send_zamok liste_fiches liste_pdfs liste_autonom
