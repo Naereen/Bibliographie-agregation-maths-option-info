@@ -75,18 +75,16 @@ Si ces mesures sanitaires se maintiennent, voici mes conseils (préliminaires, 2
 
 ----
 
-## Mode survie pas sans aucun livre : science fiction
+## Mode survie pas sans aucun livre : *science fiction* 💥
 
 Si dans 3 ans on nous annonce que les oraux d'agrégation doivent se faire *sans aucun livre*, il faudra repenser en profondeur à la façon de préparer ses oraux.
 
 ----
 
-## Remerciements
+## Remerciements 🙏
 
 Depuis des années, nos nombreuses discussions m'ont aidé à assembler, maintenir et améliorer cette liste, alors je tiens à remercier les personnes suivantes.
 
-<details style="margin-left:3%;">
-<summary>Des remerciements</summary>
 Merci à mes élèves de la [prépa agrég de l'ENS Rennes](http://www.dit.ens-rennes.fr/agregation-option-d/), et notamment les personnes suivantes dont les pages web contiennent des conseils de très bonnes qualités :
 
 - [Clément Legrand-Duchesne](http://perso.eleves.ens-rennes.fr/people/clement.legrand-duchesne/) et Mathias Dehais, et leurs camarades de 2019/2020,
@@ -104,7 +102,6 @@ Merci aussi aux incroyables professeurs du [master MVA](https://www.master-mva.c
 Et bien sûr je ne peux pas penser à eux sans mentionner les regretté-e-s [✝️ Nicolas Pajor](http://cmla.ens-paris-saclay.fr/version-francaise/nicolas-pajor-349453.kjsp?RH=DL_CMLA), et [✝️ Bogdana Neuville](https://www.google.com/search?hl=fr&q=Bogdana%20site%3Aens%2Dcachan.fr) à qui j'ai rendu hommage lors de ma remise de diplôme en 2016.
 
 Merci aussi à mes professeurs avant [l'ENS Cachan](https://ens-paris-saclay.fr/), notamment [Hubert Proal](https://www.apmep.fr/Hubert-Proal) au [lycée d'Altitude à Briançon](http://www.lyc-altitude.ac-aix-marseille.fr/spip/) pour [Math.en.Jeans](https://www.mathenjeans.fr/), [Yacine Daklhi](https://math-mpsi123.weebly.com/) et Agnès Borel au [Lycée Thiers](http://www.lyc-thiers.ac-aix-marseille.fr/).
-</details>
 
 ----
 
