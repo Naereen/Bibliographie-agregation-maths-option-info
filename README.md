@@ -18,7 +18,7 @@ C'est le quasiment le minimum vital... Mais on peut faire mieux !
 
 ----
 
-## Mode survie pas avec un sac à dos : *Et si je devais ne choisir que 2 livres ?!?*
+## Mode survie pas avec un sac à dos : *Et si je devais ne choisir que 2 (+3) livres ?!?*
 
 C'est le strict minimum... mais j'ai de quoi vous sauver la vie :
 
@@ -29,6 +29,8 @@ Contient 131 développements de niveaux variés, couvrant toutes les leçons du 
 C'est une vraie bible, pour des développements en mathématiques très riches et très nombreux (assez difficiles), mais surtout des développements en informatique et des rappels de cours concis mais précis sur tous les points moins d'informatique (du niveau et du volume de ce qui est attendus pour un plan), notamment $\lambda$-calcul, sémantique, base de données, calculabilité et décidabilité.
 
 > Publié en septembre 2020, co-écrit par Pierre Montagnon et Didier Lesevre, et des anciens élèves des ENS Rennes (Théo Pierron et Pierre Le Barbenchon) et Cachan ([Benjamin Dadoun](http://benjamin.dadoun.free.fr/130-nuances-dagreg.html), Julie Gauthier, Lilian Besson).
+
+Bon c'est un peu une tricherie, puisque le livre suivant est en fait édité en quatre volumes différents, vu qu'il fait 2200 pages !
 
 ### [[LeFrido][]] [[LeFridoPDF][]]
 [LeFrido]: https://laurent.claessens-donadello.eu/frido.html "Le Frido"
@@ -68,7 +70,7 @@ Il est évident que je suis très vivement opposé à ces dernières mesures ann
 
 Si ces mesures sanitaires se maintiennent, voici mes conseils (préliminaires, 24/02/2021) :
 
-1. Achetez [LeFrido][], c'est le meilleur rapport quantité-qualité - prix disponible pour les mathématiques,
+1. Achetez [LeFrido][] (4 volumes), c'est le meilleur rapport quantité-qualité - prix disponible pour les mathématiques,
 2. Achetez [131dev][] et d'autres livres contenant plein de développements et de rappels de cours,
 3. Travaillez à fond en utilisant juste **vos** livres, que **vous** serez capable d'amener le jour même.
 4. Restez optimiste, et bien concentré, ça va bien se passer !
