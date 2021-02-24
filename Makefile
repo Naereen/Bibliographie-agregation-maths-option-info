@@ -12,7 +12,6 @@ send_zamok:
 # builders
 build:	all_pdfs all_autonom
 
-# TODO passer le Makefile avec des wildcards bien propres
 FICHES_HTML=$(wildcard *.html)
 PDFS=$(FICHES_HTML:.html=.pdf)
 AUTONOM_HTML=$(FICHES_HTML:.html=.autonom.html)
