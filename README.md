@@ -1,27 +1,24 @@
-# Des bibliographies pour l'agrégation *2020-21*
+# 📚 🎓 Mes bibliographies pour l'agrégation - version *2020-21*
 
-Pour l'[agrégation de mathématiques](https://www.agreg.org/), option informatique.
-Conseils personnels selon le vécu et l'expérience de [Lilian Besson](https://besson.link).
-
-Comme toute liste, elle est incomplète ! Néanmoins, pour l'option info et les maths qui concernent les leçons d'option info, je ne pense pas qu'il soit utile de rajouter des livres.
+Mes bibliographies pour bien préparer l'[agrégation de mathématiques](https://www.agreg.org/), **option informatique D** (uniquement !).
 
 - [Bibliographie complète (maths + informatique) pour l'agrégation 2020-21](references.html) ([en PDF](references.pdf))
 - Et aussi [Bibliographie en informatique pour l'agrégation 2020-21](info.html) ([en PDF](info.pdf))
 - Et aussi [Bibliographie pour l'agrégation 2020-21](maths.html) ([en PDF](maths.pdf))
 
-## *Et si je devais choisir que 20 livres ?*
+## Mode survie pas avec une valise : *et si je devais choisir que 20 livres ?*
 
 - [Bibliographie partielle pour l'agrégation 2020-21](smallbib.html) ([en PDF](smallbib.pdf))
 
-## *Et si je devais choisir que 10 livres ?*
+## Mode survie pas avec une petite valise : *et si je devais choisir que 10 livres ?*
 
 - [Bibliographie minimaliste pour l'agrégation 2020-21](smallsmallbib.html) ([en PDF](smallsmallbib.pdf))
 
 C'est le quasiment le minimum vital... Mais on peut faire mieux !
 
-***
+----
 
-## *Et si je devais choisir que 2 livres ?!?*
+## Mode survie pas avec un sac à dos : *Et si je devais choisir que 2 livres ?!?*
 
 C'est le strict minimum... mais j'ai de quoi vous sauver la vie :
 
@@ -39,20 +36,60 @@ C'est une vraie bible, pour des développements en mathématiques très riches e
 C'est tout simplement le seul livre de maths gratuit, sous licence libre, écrit collaborativement,qui contient tout le programme de maths de l'agrégation de maths, et adopte un style de référence descendante. Il n'est pas parfait, mais c'est une lecture de choix pour se rafraîchir les idées sur tout le programme, et identifier les points que l'on ne comprend pas assez bien !
 Il est édité avec un ISBN, et achetable en quatre volume à prix coûtant (environ 80€).
 
-> Franchement, avec ces deux livres dans mon sac, je sais que mio, avec mon expérience, je pourrai réussir les oraux.
-> Pas avoir 20 partout, mais s'en sortir pas trop mal, sur n'importe quel couplage, en maths comme en informatique...
+> Franchement, avec ces deux livres dans mon sac, je pense que moi, avec mon expérience, je pourrai réussir les oraux sans trop galérer.
+> Ça ne veut pas dire avoir 20/20 partout, mais s'en sortir pas trop mal, sur n'importe quel couplage, en maths comme en informatique...
 >
-> - Il manquerait peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"][https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641]] donne ce qu'il faut.
+> Il manquerait peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"][https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641]] donne ce qu'il faut.
 
-***
+----
+
+## Remarques sur cette liste
+
+Conseils personnels selon le vécu et l'expérience de [Lilian Besson](https://besson.link) ([@Naereen](https://github.com/Naereen/)).
+
+- J'ai préparé l'agrégation de mathématiques option informatique à [l'ENS Cachan](http://www.ens-cachan.fr/) (désormais [ENS Paris Saclay](https://ens-paris-saclay.fr/)) en 2013/2014.
+- J'ai enseigné à l'[ENS Rennes](http://www.dit.ens-rennes.fr/) durant [ma thèse](https://perso.crans.org/besson/phd/) de 2016 à 2019, et depuis je suis agrégé-préparateur au département informatique de l'ENS Rennes, en charge de la préparation à l'agrég maths option info.
+
+Ces listes sont donc issues de mes 7 années d'expérience du concours et des oraux de leçons d'informatique et de modélisation d'informatique.
+
+Attention, comme toutes listes, elle sont évidemment incomplètes ! Et c'est le but !
+Néanmoins, pour l'option info et les maths qui concernent les leçons d'option info, je ne pense pas qu'il soit utile de rajouter des livres. Si vous avez des suggestions, [ouvrez un ticket](https://github.com/Naereen/Bibliographie-agregation-maths-option-info/issues/new) ou [envoyez-moi un mail](https://besson.link/callme.fr.html) !
+
+> *Droit d'auteur* : je ne reçois pas d'argent pour aucun des livres suggérés, même pour [Le Frido][] auquel j'ai contribué (il est vendu à prix coûtant, l'auteur ne reçoit pas non plus d'argent, et il est sous licence libre), et pour [131dev][] auquel j'ai un peu contribué.
+
+----
+
+## Mode survie pas sans bibliothèque d'agrég ni malle : WTF ?
+
+> En raison des mesures sanitaires, pour la session 2021, il n'y aura pas de manipulations de livres entre les candidats, donc pas de bibliothèque de l'agrégation, ni de malles universitaires. Les candidats doivent apporter leurs propres livres.  De plus, il n'y aura exceptionnellement pas de visiteurs cette année.
+> [informations pratiques sur le site du jury (23/02/2021)](https://agreg.org/index.php?id=informations-pratiques)
+
+Il est évident que je suis très vivement opposé à ces dernières mesures annoncées par le jury, comme tous les professeurs de prépa agrég en France, et comme tous les candidat-e-s.
+
+Si ces mesures sanitaires se maintiennent, voici mes conseils (préliminaires, 24/02/2021) :
+
+1. Achetez [Le Frido][], c'est le meilleur rapport quantité-qualité - prix disponible pour les mathématiques,
+2. Achetez [131dev][] et d'autres livres contenant plein de développements et de rappels de cours,
+3. Travaillez à fond en utilisant juste **vos** livres, que **vous** serez capable d'amener le jour même.
+4. Restez optimiste, et bien concentré, ça va bien se passer !
+
+----
+
+## Mode survie pas sans aucun livre : science fiction
+
+Si dans 3 ans on nous annonce que les oraux d'agrégation doivent se faire *sans aucun livre*, il faudra repenser en profondeur à la façon de préparer ses oraux.
+
+----
 
 ## Remerciements
 
 Depuis des années, nos nombreuses discussions m'ont aidé à assembler, maintenir et améliorer cette liste, alors je tiens à remercier les personnes suivantes.
 
+<details style="margin-left:3%;">
+<summary>Des remerciements</summary>
 Merci à mes élèves de la [prépa agrég de l'ENS Rennes](http://www.dit.ens-rennes.fr/agregation-option-d/), et notamment les personnes suivantes dont les pages web contiennent des conseils de très bonnes qualités :
 
-- Clément Legrand-Duchesne et Mathias Dehais, et leurs camarades de 2019/2020,
+- [Clément Legrand-Duchesne](http://perso.eleves.ens-rennes.fr/people/clement.legrand-duchesne/) et Mathias Dehais, et leurs camarades de 2019/2020,
 - [Pierre Le Barbenchon (2019)](http://perso.eleves.ens-rennes.fr/people/pierre.le-barbenchon) et [ses conseils](http://perso.eleves.ens-rennes.fr/people/pierre.le-barbenchon/conseils.pdf), et ses camarades de 2018/2019,
 - [Julie Parreaux (2019)](http://perso.eleves.ens-rennes.fr/people/Julie.Parreaux/) et [ses conseils](http://perso.eleves.ens-rennes.fr/people/Julie.Parreaux/agregation.html),
 - [Joshua Peigner (2018)](http://perso.eleves.ens-rennes.fr/people/joshua.peignier/) et [ses conseils](http://perso.eleves.ens-rennes.fr/people/joshua.peignier/agreg.html),
@@ -67,14 +104,33 @@ Merci aussi aux incroyables professeurs du [master MVA](https://www.master-mva.c
 Et bien sûr je ne peux pas penser à eux sans mentionner les regretté-e-s [✝️ Nicolas Pajor](http://cmla.ens-paris-saclay.fr/version-francaise/nicolas-pajor-349453.kjsp?RH=DL_CMLA), et [✝️ Bogdana Neuville](https://www.google.com/search?hl=fr&q=Bogdana%20site%3Aens%2Dcachan.fr) à qui j'ai rendu hommage lors de ma remise de diplôme en 2016.
 
 Merci aussi à mes professeurs avant [l'ENS Cachan](https://ens-paris-saclay.fr/), notamment [Hubert Proal](https://www.apmep.fr/Hubert-Proal) au [lycée d'Altitude à Briançon](http://www.lyc-altitude.ac-aix-marseille.fr/spip/) pour [Math.en.Jeans](https://www.mathenjeans.fr/), [Yacine Daklhi](https://math-mpsi123.weebly.com/) et Agnès Borel au [Lycée Thiers](http://www.lyc-thiers.ac-aix-marseille.fr/).
+</details>
 
-***
+----
 
 ## A propos de ce document
 
-- Ces documents ont été rédigés pour mon usage personnel en 2013/2014, puis maintenu depuis.
-- De dépôt GitHub le 24/02/2021, et les liens cités peuvent ne plus être valables, ou avoir été modifiés au moment de votre lecture.
-- Auteur : [Lilian Besson](https://besson.link/) [@Naereen](https://GitHub.com/Naereen).
-- Sous licence libre : [MIT Licence](https://lbesson.mit-license.org/).
+- Ces documents ont été rédigés pour mon usage personnel en 2013/2014, puis maintenus depuis 2014.
+- Le dépôt GitHub a été créé le 24/02/2021, n'hésitez pas à contribuer !
+- Les documents HTML sont en fait écrits en Markdown, en utilisant [StrapDown.js](https://github.com/Naereen/StrapDown.js/), et compilez en PDF avec [strapdown2pdf](https://lbesson.bitbucket.io/md/strapdown2pdf.pdf) ([doc](https://lbesson.bitbucket.io/md/strapdown2pdf.pdf)), lui aussi open-source.
 
 > ✝️ En mémoire du [regretté](https://www.pf-duflos.fr/P1220.aspx?IdPer=652623) [Rémi](http://www.maths-cheval.com/) [Cheval](https://www.facebook.com/remi.cheval.5).
+
+### :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//blob/master/LICENSE)
+
+Ce projet et cette documentation sont distribuées en accès libre selon les conditions de la [licence MIT](https://lbesson.mit-license.org/) (cf le fichier [LICENSE](LICENSE) en anglais).
+© [Lilian Besson](https://GitHub.com/Naereen), 2021.
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://commonmark.org/)
+[![made-with-StrapDownJS](https://img.shields.io/badge/Made%20with-StrapDownJS-1f425f.svg)](https://github.com/Naereen/StrapDown.js/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[![HitCount](http://hits.dwyl.io/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](http://hits.dwyl.io/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//graphs/commit-activity)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+
