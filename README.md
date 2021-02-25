@@ -41,7 +41,7 @@ Il est édité avec un ISBN, et achetable en quatre volume à prix coûtant (env
 > Franchement, avec ces deux livres dans mon sac, je pense que moi, avec mon expérience, je pourrai réussir les oraux sans trop galérer.
 > Ça ne veut pas dire avoir 20/20 partout, mais s'en sortir pas trop mal, sur n'importe quel couplage, en maths comme en informatique...
 >
-> Il manquerait peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"][https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641]] donne ce qu'il faut.
+> Il manquerait peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"](https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641)] donne ce qu'il faut.
 
 ----
 
@@ -115,7 +115,7 @@ Merci aussi à mes professeurs avant [l'ENS Cachan](https://ens-paris-saclay.fr/
 
 > ✝️ En mémoire du [regretté](https://www.pf-duflos.fr/P1220.aspx?IdPer=652623) [Rémi](http://www.maths-cheval.com/) [Cheval](https://www.facebook.com/remi.cheval.5).
 
-### :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//blob/master/LICENSE)
+### 📜 Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//blob/master/LICENSE)
 
 Ce projet et cette documentation sont distribuées en accès libre selon les conditions de la [licence MIT](https://lbesson.mit-license.org/) (cf le fichier [LICENSE](LICENSE) en anglais).
 © [Lilian Besson](https://GitHub.com/Naereen), 2021.
