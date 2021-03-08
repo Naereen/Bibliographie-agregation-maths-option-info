@@ -1,26 +1,33 @@
 # 📚 🎓 Mes bibliographies pour l'agrégation - version *2020-21*
 
-Mes bibliographies pour bien préparer l'[agrégation de mathématiques](https://www.agreg.org/), **option informatique D** (uniquement !).
+Mes bibliographies pour bien préparer l'[agrégation de mathématiques](https://www.agreg.org/), **option informatique D** (uniquement !)
+
 
 - [Bibliographie complète (maths + informatique) pour l'agrégation 2020-21](references.html) ([en PDF](references.pdf))
-- Et aussi [Bibliographie en informatique pour l'agrégation 2020-21](info.html) ([en PDF](info.pdf))
-- Et aussi [Bibliographie pour l'agrégation 2020-21](maths.html) ([en PDF](maths.pdf))
+- Et aussi [Bibliographie en informatique, pour l'agrégation 2020-21](info.html) ([en PDF](info.pdf))
+- Et aussi [Bibliographie en mathématiques, pour l'agrégation 2020-21](maths.html) ([en PDF](maths.pdf))
 
 ## Mode survie avec une valise : *et si je devais ne choisir que 20 livres ?*
 
 - [Bibliographie partielle pour l'agrégation 2020-21](smallbib.html) ([en PDF](smallbib.pdf))
 
-## Mode survie pas avec une *petite* valise : *et si je devais ne choisir que 10 livres ?*
+> Le budget serait d'environ 450€ à 550€ je pense, d'après mes estimations grossières.
+> Bien qu'étant agrégé depuis 2014 et enseignant depuis 2016, je ne possède même pas la moitié de ces livres...
+
+## Mode survie avec une *petite* valise : *et si je devais ne choisir que 10 livres ?*
 
 - [Bibliographie minimaliste pour l'agrégation 2020-21](smallsmallbib.html) ([en PDF](smallsmallbib.pdf))
+
+> Le budget serait d'environ 250€ à 300€ je pense, d'après mes estimations grossières.
 
 C'est le quasiment le minimum vital... Mais on peut faire mieux !
 
 ----
 
-## Mode survie pas avec un sac à dos : *Et si je devais ne choisir que 2 (+3) livres ?!?*
+## Mode survie avec un sac à dos : *Et si je devais ne choisir que 2 (+3) livres ?!?*
 
-C'est le strict minimum... mais j'ai de quoi vous sauver la vie :
+C'est le strict minimum... mais j'ai de quoi vous sauver la vie !
+Avec un budget d'environ 130€, et seulement 5 volumes (qui tiennent dans un bon sac à dos !), vous pouvez gérer les trois oraux (leçons maths, leçons info, modélisation info), si *besoin* mais ce n'est ni idéal, ni conseillé !
 
 ### [[131dev][]] "131 développements" (par Le Barbenchon, Lesevre, Pierron, Montagnon)
 [131dev]: https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique "131 développements (par Le Barbenchon, Lesevre, Pierron, Montagnon)"
@@ -28,9 +35,11 @@ Une bible pour les développements de l'agrégation, y compris en informatique !
 Contient 131 développements de niveaux variés, couvrant toutes les leçons du programme de 2019.
 C'est une vraie bible, pour des développements en mathématiques très riches et très nombreux (assez difficiles), mais surtout des développements en informatique et des rappels de cours concis mais précis sur tous les points moins d'informatique (du niveau et du volume de ce qui est attendus pour un plan), notamment $\lambda$-calcul, sémantique, base de données, calculabilité et décidabilité.
 
+> Il coûte 50€ chez Dunod en version papier, mais certaines librairies proposent des réductions de 5% pour les étudiant-e-s.
+
 > Publié en septembre 2020, co-écrit par Pierre Montagnon et Didier Lesevre, et des anciens élèves des ENS Rennes (Théo Pierron et Pierre Le Barbenchon) et Cachan ([Benjamin Dadoun](http://benjamin.dadoun.free.fr/130-nuances-dagreg.html), Julie Gauthier, Lilian Besson).
 
-Bon c'est un peu une tricherie, puisque le livre suivant est en fait édité en quatre volumes différents, vu qu'il fait 2200 pages !
+Bon c'est un peu une tricherie, puisque le livre suivant est en fait édité en *quatre* volumes différents, vu qu'il fait 2200 pages !
 
 ### [[LeFrido][]] [[LeFridoPDF][]]
 [LeFrido]: https://laurent.claessens-donadello.eu/frido.html "Le Frido"
@@ -39,15 +48,17 @@ C'est tout simplement le seul livre de maths gratuit, sous licence libre, écrit
 Il est édité avec un ISBN, et achetable en quatre volume à prix coûtant (environ 80€).
 
 > Franchement, avec ces deux livres dans mon sac, je pense que moi, avec mon expérience, je pourrai réussir les oraux sans trop galérer.
-> Ça ne veut pas dire avoir 20/20 partout, mais s'en sortir pas trop mal, sur n'importe quel couplage, en maths comme en informatique...
+> Ça ne veut pas dire avoir 20/20 partout, mais s'en sortir pas trop mal, sur n'importe quel couplage, en maths comme en informatique, pour le plan comme pour deux développements, ni hyper originaux ni complètement bateaux...
 >
-> Il manquerait peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"](https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641)] donne ce qu'il faut.
+> Évidemment, pour la plupart des leçons informatique, [[131dev][]] n'est pas suffisant malgré ses super annexes, et vous devrez apprendre le contenu de la plupart des plans ! Mais [[LeFrido][]] contient largement de quoi remplir les plans de toutes les leçons de maths (pour l'option D), et moult développements, à compléter avec des développements du [[131dev][]].
+>
+> Il manquerait aussi peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"](https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641)] donne ce qu'il faut.
 
 ----
 
 ## Remarques sur cette liste
 
-Conseils personnels selon le vécu et l'expérience de [Lilian Besson](https://besson.link) ([@Naereen](https://github.com/Naereen/)).
+Ce sont avant tout des conseils *personnels*, selon le vécu et l'expérience de [Lilian Besson](https://besson.link) ([@Naereen](https://github.com/Naereen/)).
 
 - J'ai préparé l'agrégation de mathématiques option informatique à [l'ENS Cachan](http://www.ens-cachan.fr/) (désormais [ENS Paris Saclay](https://ens-paris-saclay.fr/)) en 2013/2014.
 - J'ai enseigné à l'[ENS Rennes](http://www.dit.ens-rennes.fr/) durant [ma thèse](https://perso.crans.org/besson/phd/) de 2016 à 2019, et depuis je suis agrégé-préparateur au département informatique de l'ENS Rennes, en charge de la préparation à l'agrég maths option info.
