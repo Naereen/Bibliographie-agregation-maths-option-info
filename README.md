@@ -33,9 +33,9 @@ Avec un budget d'environ 130€, et seulement 5 volumes (qui tiennent dans un bo
 [131dev]: https://www.dunod.com/prepas-concours/131-developpements-pourl-oral-agregation-externe-mathematiquesinformatique "131 développements (par Le Barbenchon, Lesevre, Pierron, Montagnon)"
 Une bible pour les développements de l'agrégation, y compris en informatique !
 Contient 131 développements de niveaux variés, couvrant toutes les leçons du programme de 2019.
-C'est une vraie bible, pour des développements en mathématiques très riches et très nombreux (assez difficiles), mais surtout des développements en informatique et des rappels de cours concis mais précis sur tous les points moins d'informatique (du niveau et du volume de ce qui est attendus pour un plan), notamment $\lambda$-calcul, sémantique, base de données, calculabilité et décidabilité.
+C'est une vraie bible, pour des développements en mathématiques très riches et très nombreux (assez difficiles), mais surtout des développements en informatique et des rappels de cours concis mais précis sur tous les points moins connus du programme d'informatique (du niveau et du volume de ce qui est attendus pour un plan), notamment : $\lambda$-calcul, sémantique, base de données, calculabilité et décidabilité, réductions de problèmes NP-complets, etc.
 
-> Il coûte 50€ chez Dunod en version papier, mais certaines librairies proposent des réductions de 5% pour les étudiant-e-s.
+> En 2021, il coûte 48€ chez Dunod en version papier, mais certaines librairies proposent des réductions de 5% pour les étudiant-e-s.
 
 > Publié en septembre 2020, co-écrit par Pierre Montagnon et Didier Lesevre, et des anciens élèves des ENS Rennes (Théo Pierron et Pierre Le Barbenchon) et Cachan ([Benjamin Dadoun](http://benjamin.dadoun.free.fr/130-nuances-dagreg.html), Julie Gauthier, Lilian Besson).
 
@@ -45,10 +45,14 @@ Bon c'est un peu une tricherie, puisque le livre suivant est en fait édité en 
 [LeFrido]: https://laurent.claessens-donadello.eu/frido.html "Le Frido"
 [LeFridoPDF]: https://laurent.claessens-donadello.eu/pdf/lefrido.pdf "Le Frido en PDF"
 C'est tout simplement le seul livre de maths gratuit, sous licence libre, écrit collaborativement,qui contient tout le programme de maths de l'agrégation de maths, et adopte un style de référence descendante. Il n'est pas parfait, mais c'est une lecture de choix pour se rafraîchir les idées sur tout le programme, et identifier les points que l'on ne comprend pas assez bien !
-Il est édité avec un ISBN, et achetable en quatre volume à prix coûtant (environ 80€).
 
-> Franchement, avec ces deux livres dans mon sac, je pense que moi, avec mon expérience, je pourrai réussir les oraux sans trop galérer.
-> Ça ne veut pas dire avoir 20/20 partout, mais s'en sortir pas trop mal, sur n'importe quel couplage, en maths comme en informatique, pour le plan comme pour deux développements, ni hyper originaux ni complètement bateaux...
+Il est édité avec un ISBN depuis des années, il suffisamment commercialisé, utilisé et distribué pour que le jury ne puisse (plus) refuser de l'accepter pour les oraux, et [vous pouvez l'acheter](https://www.thebookedition.com/fr/le-frido-2020-volume-1-p-377484.html) en quatre volume **vendus à prix coûtant** (environ 90€ + frais de livraison).
+([Vol1](https://www.thebookedition.com/fr/le-frido-2020-volume-1-p-377484.html), [Vol2](https://www.thebookedition.com/fr/le-frido-2020-volume-2-p-377488.html), [Vol3](https://www.thebookedition.com/fr/le-frido-2020-volume-3-p-377486.html), [Vol4](https://www.thebookedition.com/fr/le-frido-2020-volume-4-p-377487.html)).
+Vous pouvez même les faire imprimer, chez vous ou chez un imprimeur local, ou au service reprographie de votre université ou école.
+
+> Franchement, avec ces cinq livres dans mon sac, je pense que moi, avec mon expérience, je pourrai réussir les oraux sans trop galérer...
+> Ça ne veut pas dire avoir 20/20 partout, évidemment ! Il faut plus de livres pour pouvoir proposer des plans riches, des développements complémentaires et originaux, etc.
+> Mais avec ces cinq livres, on peut s'en sortir sans catastrophes, sur n'importe quel couplage, en maths comme en informatique, pour le plan comme pour deux développements, ni hyper originaux ni complètement bateaux...
 >
 > Évidemment, pour la plupart des leçons informatique, [[131dev][]] n'est pas suffisant malgré ses super annexes, et vous devrez apprendre le contenu de la plupart des plans ! Mais [[LeFrido][]] contient largement de quoi remplir les plans de toutes les leçons de maths (pour l'option D), et moult développements, à compléter avec des développements du [[131dev][]].
 >
