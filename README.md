@@ -52,15 +52,15 @@ Vous pouvez même les faire imprimer, chez vous ou chez un imprimeur local, ou a
 
 > Franchement, avec ces cinq livres dans mon sac, je pense que moi, avec mon expérience, je pourrai réussir les oraux sans trop galérer...
 > Ça ne veut pas dire avoir 20/20 partout, évidemment ! Il faut plus de livres pour pouvoir proposer des plans riches, des développements complémentaires et originaux, etc.
-> Mais avec ces cinq livres, on peut s'en sortir sans catastrophes, sur n'importe quel couplage, en maths comme en informatique, pour le plan comme pour deux développements, ni hyper originaux ni complètement bateaux...
+> Mais avec ces cinq livres, on peut s'en sortir sans catastrophe, sur n'importe quel couplage, en maths comme en informatique, pour le plan comme pour deux développements, ni hyper originaux ni complètement bateaux...
 >
-> Évidemment, pour la plupart des leçons informatique, [[131dev][]] n'est pas suffisant malgré ses super annexes, et vous devrez apprendre le contenu de la plupart des plans ! Mais [[LeFrido][]] contient largement de quoi remplir les plans de toutes les leçons de maths (pour l'option D), et moult développements, à compléter avec des développements du [[131dev][]].
+> Évidemment, pour la plupart des leçons en informatique, [[131dev][]] n'est pas suffisant malgré ses super annexes, et vous devrez apprendre le contenu de la plupart des plans ! Mais [[LeFrido][]] contient largement de quoi remplir les plans de toutes les leçons de maths (pour l'option D), et moult développements, à compléter avec des développements du [[131dev][]].
 >
-> Il manquerait aussi peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme ["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python"](https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641)] donne ce qu'il faut.
+> Il manquerait aussi peut-être des références pour la [modélisation](https://agreg.org/index.php?id=modelisation), notamment d'architecture des ordinateurs et de représentations des nombres en binaires et en flottants. Pour ça, un bon livre de prépa comme [["Informatique pour tous en classes préparatoires aux grandes écoles : manuel d'algorithmique et programmation structurée avec Python (2013)"](https://bibliopac.ens-rennes.fr/cgi-bin/koha/opac-detail.pl?biblionumber=16641)] donne ce qu'il faut, et plein d'autres choses.
 
 ----
 
-## Remarques sur cette liste
+## Remarques sur ces listes
 
 Ce sont avant tout des conseils *personnels*, selon le vécu et l'expérience de [Lilian Besson](https://besson.link) ([@Naereen](https://github.com/Naereen/)).
 
@@ -76,23 +76,23 @@ Néanmoins, pour l'option info et les maths qui concernent les leçons d'option 
 
 ----
 
-## Mode survie pas sans bibliothèque d'agrég ni malle : WTF ?
+## Mode survie sans bibliothèque d'agrég ni malle : *WTF* ?
 
-> En raison des mesures sanitaires, pour la session 2021, il n'y aura pas de manipulations de livres entre les candidats, donc pas de bibliothèque de l'agrégation, ni de malles universitaires. Les candidats doivent apporter leurs propres livres.  De plus, il n'y aura exceptionnellement pas de visiteurs cette année.
-> [informations pratiques sur le site du jury (23/02/2021)](https://agreg.org/index.php?id=informations-pratiques)
+> *En raison des mesures sanitaires, pour la session 2021, il n'y aura pas de manipulations de livres entre les candidats, donc pas de bibliothèque de l'agrégation, ni de malles universitaires. Les candidats doivent apporter leurs propres livres.  De plus, il n'y aura exceptionnellement pas de visiteurs cette année.*
+> [Informations pratiques sur le site du jury (23/02/2021)](https://agreg.org/index.php?id=informations-pratiques)
 
-Il est évident que je suis très vivement opposé à ces dernières mesures annoncées par le jury, comme tous les professeurs de prépa agrég en France, et comme tous les candidat-e-s.
+Il est évident que je suis très vivement opposé à ces dernières mesures annoncées par le jury, comme tous-tes les professeur-e-s de prépa' agrég' en France, et comme tous les candidats et toutes les candidates.
 
 Si ces mesures sanitaires se maintiennent, voici mes conseils (préliminaires, 24/02/2021) :
 
 1. Achetez [LeFrido][] (4 volumes), c'est le meilleur rapport quantité-qualité - prix disponible pour les mathématiques,
-2. Achetez [131dev][] et d'autres livres contenant plein de développements et de rappels de cours,
+2. Achetez [131dev][] et quelques autres livres contenant plein de développements et de rappels de cours (max 4).
 3. Travaillez à fond en utilisant juste **vos** livres, que **vous** serez capable d'amener le jour même.
-4. Restez optimiste, et bien concentré, ça va bien se passer !
+4. Restez optimiste, et bien concentré-e, ça va bien se passer ! En se préparant ainsi, vous serez probablement mieux préparés que d'autres candidat-e-s (et ça reste un concours !).
 
 ----
 
-## Mode survie pas sans aucun livre : *science fiction* 💥
+## Mode survie *sans aucun livre* ?! *Pure science fiction* 💥
 
 Si dans 3 ans on nous annonce que les oraux d'agrégation doivent se faire *sans aucun livre*, il faudra repenser en profondeur à la façon de préparer ses oraux.
 
@@ -109,26 +109,26 @@ Merci à mes élèves de la [prépa agrég de l'ENS Rennes](http://www.dit.ens-r
 - [Julie Parreaux (2019)](http://perso.eleves.ens-rennes.fr/people/Julie.Parreaux/) et [ses conseils](http://perso.eleves.ens-rennes.fr/people/Julie.Parreaux/agregation.html),
 - [Joshua Peigner (2018)](http://perso.eleves.ens-rennes.fr/people/joshua.peignier/) et [ses conseils](http://perso.eleves.ens-rennes.fr/people/joshua.peignier/agreg.html),
 - [Aude Le Gluher (2017)](http://perso.eleves.ens-rennes.fr/people/aude.legluher/) et [ses conseils](http://perso.eleves.ens-rennes.fr/people/aude.legluher/fr/Conseils.pdf), et Vladislav Tempez,
-- [Théo Pierron (2014)](http://perso.eleves.ens-rennes.fr/~tpier758/) et [ses conseils](http://perso.eleves.ens-rennes.fr/~tpier758/agreg.html) (pas mon ancien élève mais un ancien quand même).
+- [Théo Pierron (2014)](http://perso.eleves.ens-rennes.fr/~tpier758/) et [ses conseils](http://perso.eleves.ens-rennes.fr/~tpier758/agreg.html) (il n'est pas mon ancien élève mais un ancien quand même !).
 
 Merci aussi à mes camarades de [prépa agrég de l'ENS Cachan](http://www.dptinfo.ens-cachan.fr/Agregation/), qui ont fait de cette année en 2013/2014 la plus amusante et la plus enrichissante de toutes mes (10) années d'études !
-Merci notamment [Loïc](https://loicdevilliers.frama.site/) et son [devdedev](http://loic.devilliers.free.fr/devdedev.pdf), [Benjamin](http://benjamin.dadoun.free.fr/agreg.html) [Ludovic](https://sacchelli.github.io/), [Jessica](https://www.dpmms.cam.ac.uk/person/jg900), [Jill-Jênn](https://jill-jenn.net/agreg/index.html), son [dog.pdf](https://jill-jenn.net/_static/dog.pdf) et [ses livres](https://tryalgo.org/book), [Pierre](https://fr.linkedin.com/in/pierre-bertrand-4b006299), [Damien](https://damienallonsius.github.io/), [Claire](https://irmar.univ-rennes1.fr/interlocuteurs/claire-brecheteau)).
+Merci notamment [Loïc](https://loicdevilliers.frama.site/) et son [devdedev](http://loic.devilliers.free.fr/devdedev.pdf), [Benjamin](http://benjamin.dadoun.free.fr/agreg.html), [Ludovic](https://sacchelli.github.io/), [Jessica](https://www.dpmms.cam.ac.uk/person/jg900), [Jill-Jênn](https://jill-jenn.net/agreg/index.html), son [dog.pdf](https://jill-jenn.net/_static/dog.pdf) et [ses livres](https://tryalgo.org/book), [Pierre](https://fr.linkedin.com/in/pierre-bertrand-4b006299), [Damien](https://damienallonsius.github.io/), [Claire](https://irmar.univ-rennes1.fr/interlocuteurs/claire-brecheteau)).
 
-Merci aussi mes professeurs à [l'ENS Cachan](https://ens-paris-saclay.fr/), notamment en informatique [Jean Goubault-Larrecq](), [Sylvain Schmitz](https://www.irif.fr/~schmitz/), [Benjamin Monmège](http://pageperso.lif.univ-mrs.fr/~benjamin.monmege/), [Thomas Chatain](http://www.lsv.ens-cachan.fr/~chatain/) [Hubert Comon-Lundh](http://www.lsv.ens-cachan.fr/~comon/), et aussi [Serge Haddad](http://www.lsv.ens-cachan.fr/~haddad/) [Paul Gastin](http://www.lsv.ens-cachan.fr/~gastin/) et [Cristina Sirangello](https://www.irif.fr/~cristina/), et en mathématiques [Claudine Picaronny](http://www.lsv.fr/~picaro/) en [prépa agrég](http://ens-paris-saclay.fr/etudes/diplome-ens-paris-saclay/fesup-agregation/mathematiques), [Alain Trouvé](http://atrouve.perso.math.cnrs.fr/), pour ses cours en L3 et sa confiance durant ma scolarité, et [Florian de Vuyst](https://fdevuyst.jimdofree.com/).
+Merci aussi mes professeurs à [l'ENS Cachan](https://ens-paris-saclay.fr/) (désormais ENS Paris-Saclay), avec notamment en informatique : [Jean Goubault-Larrecq](), [Sylvain Schmitz](https://www.irif.fr/~schmitz/), [Benjamin Monmège](http://pageperso.lif.univ-mrs.fr/~benjamin.monmege/), [Thomas Chatain](http://www.lsv.ens-cachan.fr/~chatain/), [Hubert Comon-Lundh](http://www.lsv.ens-cachan.fr/~comon/), et aussi [Serge Haddad](http://www.lsv.ens-cachan.fr/~haddad/), [Paul Gastin](http://www.lsv.ens-cachan.fr/~gastin/) et [Cristina Sirangello](https://www.irif.fr/~cristina/), et en mathématiques : [Claudine Picaronny](http://www.lsv.fr/~picaro/) en [prépa agrég](http://ens-paris-saclay.fr/etudes/diplome-ens-paris-saclay/fesup-agregation/mathematiques), [Alain Trouvé](http://atrouve.perso.math.cnrs.fr/), pour ses cours en L3 et sa confiance durant ma scolarité, et [Florian de Vuyst](https://fdevuyst.jimdofree.com/).
 Merci aussi aux incroyables professeurs du [master MVA](https://www.master-mva.com/), que j'ai fait (et majoré !) en 2015-2016 : [Nicolas Vayatis](http://nvayatis.perso.math.cnrs.fr/) pour ses conseils, et [Émilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) pour son soutien indefectible durant ma thèse, [Alessandro Lazaric](chercheurs.lille.inria.fr/~lazaric/), [Guillaume Obozinski](https://people.epfl.ch/guillaume.obozinski), [Francis Bach](https://francisbach.com/) et [Michal Valko](http://researchers.lille.inria.fr/~valko/hp/).
-Et bien sûr je ne peux pas penser à eux sans mentionner les regretté-e-s [✝️ Nicolas Pajor](http://cmla.ens-paris-saclay.fr/version-francaise/nicolas-pajor-349453.kjsp?RH=DL_CMLA), et [✝️ Bogdana Neuville](https://www.google.com/search?hl=fr&q=Bogdana%20site%3Aens%2Dcachan.fr) à qui j'ai rendu hommage lors de ma remise de diplôme en 2016.
+Et bien sûr je ne peux pas penser à eux sans mentionner les regretté-e-s [✝️ Nicolas Pajor](http://cmla.ens-paris-saclay.fr/version-francaise/nicolas-pajor-349453.kjsp?RH=DL_CMLA), et [✝️ Bogdana Neuville](https://www.google.com/search?hl=fr&q=Bogdana%20site%3Aens%2Dcachan.fr), qui nous ont quitté en 2015 et 2016, et à qui j'ai rendu hommage lors de ma remise de diplôme en 2016.
 
 Merci aussi à mes professeurs avant [l'ENS Cachan](https://ens-paris-saclay.fr/), notamment [Hubert Proal](https://www.apmep.fr/Hubert-Proal) au [lycée d'Altitude à Briançon](http://www.lyc-altitude.ac-aix-marseille.fr/spip/) pour [Math.en.Jeans](https://www.mathenjeans.fr/), [Yacine Daklhi](https://math-mpsi123.weebly.com/) et Agnès Borel au [Lycée Thiers](http://www.lyc-thiers.ac-aix-marseille.fr/).
 
 ----
 
-## A propos de ce document
+## À propos de ce document
 
-- Ces documents ont été rédigés pour mon usage personnel en 2013/2014, puis maintenus depuis 2014.
+- Ces documents ont été rédigés pour mon usage personnel en 2013/2014, puis maintenus chaque année depuis 2014.
 - Le dépôt GitHub a été créé le 24/02/2021, n'hésitez pas à contribuer !
-- Les documents HTML sont en fait écrits en Markdown, en utilisant [StrapDown.js](https://github.com/Naereen/StrapDown.js/), et compilez en PDF avec [strapdown2pdf](https://lbesson.bitbucket.io/md/strapdown2pdf.pdf) ([doc](https://lbesson.bitbucket.io/md/strapdown2pdf.pdf)), lui aussi open-source.
+- Les documents HTML sont en fait écrits en Markdown, en utilisant [StrapDown.js](https://github.com/Naereen/StrapDown.js/), et compilés en PDF avec mon script [strapdown2pdf](https://GitHub.com/Naereen/bin/blob/master/strapdown2pdf) ([doc](https://lbesson.bitbucket.io/md/strapdown2pdf.pdf)), lui aussi open-source.
 
-> ✝️ En mémoire du [regretté](https://www.pf-duflos.fr/P1220.aspx?IdPer=652623) [Rémi](http://www.maths-cheval.com/) [Cheval](https://www.facebook.com/remi.cheval.5).
+> ✝️ En mémoire du [regretté](https://www.pf-duflos.fr/P1220.aspx?IdPer=652623) [Rémi](http://www.maths-cheval.com/) [Cheval](https://www.facebook.com/remi.cheval.5), qui nous a quitté en février 2021.
 
 ### 📜 Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Perspectives-carriere-enseignement-informatique-en-2021/.svg)](https://github.com/Naereen/Perspectives-carriere-enseignement-informatique-en-2021//blob/master/LICENSE)
 
